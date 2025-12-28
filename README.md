@@ -72,4 +72,4 @@ The program generates and manages the following files to store data:
 ---
 
 ## 🛡 Security Note
-If you forget your password, you can manually reset the system by deleting the `pin.txt` file or using the "Clear all stored data" option within the app (requires current password).
+If you forget your password, you can manually reset the system by deleting the `pin.txt` file or using the "Clear all stored data" option within the app (requires current password). 
